@@ -4,7 +4,10 @@ date: "2020-11-16T23:46:37.121Z"
 ---
 
 
-费了好大劲做出的一个toy project，使用Gatby和Netlify部署个人站点，可以做成个人博客或者在线简历。中文网页里关于Gatby和Netlify的信息不太多，希望可以帮到有兴趣尝试的同学。
+使用Gatby和Netlify部署个人站点，可以做成个人博客或者在线简历。
+
+中文网页里关于Gatby和Netlify的信息不太多，希望可以帮到有兴趣尝试的同学。
+
 项目代码在我的[Git](https://github.com/AQrrr/GatsbyDemo).
 
 
@@ -142,7 +145,11 @@ git push -u origin main
 ***
 
 
-我创建的[demo在这里](https://inspiring-demo.netlify.app/)
+我创建的[Demo](https://inspiring-demo.netlify.app/)示例
+
+我创建的[Blog](https://inspiring-demo.netlify.app/)示例
+
+
 
 
 **参考资料：**
