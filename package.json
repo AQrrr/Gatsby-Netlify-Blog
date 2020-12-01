@@ -29,7 +29,10 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
     "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.75"
+    "typeface-montserrat": "0.0.75",
+    "gatsby-plugin-netlify": "^2.4.0",
+    "gatsby-plugin-netlify-cms": "^4.4.0",
+    "netlify-cms-app": "^2.13.3"
   },
   "devDependencies": {
     "prettier": "2.1.2"
